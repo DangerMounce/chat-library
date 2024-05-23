@@ -1,0 +1,115 @@
+[
+    {
+      "speaker_email": "customer@example.com",
+      "response_id": "1",
+      "message": "Hello, I'm currently facing an issue with filing a claim online. The system keeps giving me an error message.",
+      "speaker_is_customer": true,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:00:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "2",
+      "message": "I'm here to help you. Before we proceed, for GDPR purposes can you confirm your full name, your date of birth, the first line of address and postcode, and confirm your email address?",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:01:00Z"
+    },
+    {
+      "speaker_email": "customer@example.com",
+      "response_id": "3",
+      "message": "Sure, my full name is Alice Johnson, my date of birth is February 14, 1990, my address is 456 Oak Lane, Lakeside, LS4 8TW, and my email is alice.j@example.com.",
+      "speaker_is_customer": true,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:02:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "4",
+      "message": "Thank you for completing security, that's all correct. Now, let's address the issue with the claim filing. Can you please tell me exactly what error message you are receiving?",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:03:00Z"
+    },
+    {
+      "speaker_email": "customer@example.com",
+      "response_id": "5",
+      "message": "The error says 'Submission Failed: Missing Documentation'. But I've attached all required documents.",
+      "speaker_is_customer": true,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:04:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "6",
+      "message": "A possible resolution could be to review the list of required documents on our website and ensure all have been uploaded correctly. Sometimes, the file format or size causes an issue. What type of documents are you trying to upload?",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:05:00Z"
+    },
+    {
+      "speaker_email": "customer@example.com",
+      "response_id": "7",
+      "message": "I'm uploading PDFs of the repair estimate and photos of the damage in JPEG format.",
+      "speaker_is_customer": true,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:06:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "8",
+      "message": "Thank you for the details. PDFs and JPEGs are indeed supported. However, let's try a different approach. Could you please resize the photos to ensure they're under the maximum file size limit of 5MB each and attempt to upload the documents again? I can guide you through this process if needed.",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:07:00Z"
+    },
+    {
+      "speaker_email": "customer@example.com",
+      "response_id": "9",
+      "message": "I wasn't aware there was a file size limit. I'll try resizing the photos. Give me a moment, please.",
+      "speaker_is_customer": true,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:08:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "10",
+      "message": "Of course. If you encounter any difficulties or need further assistance, I'm here to help.",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:10:00Z"
+    },
+    {
+      "speaker_email": "customer@example.com",
+      "response_id": "11",
+      "message": "I've resized the photos and uploaded them again. It looks like the submission went through this time!",
+      "speaker_is_customer": true,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:15:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "12",
+      "message": "Wonderful! I'm glad to hear that. Your claim submission is now successful. Is there anything else I can assist you with today?",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:16:00Z"
+    },
+    {
+      "speaker_email": "customer@example.com",
+      "response_id": "13",
+      "message": "No, that was everything. Thanks for your help!",
+      "speaker_is_customer": true,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:17:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "14",
+      "message": "You're welcome! If you have any more questions in the future or need assistance, don't hesitate to contact us. Have a great day!",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T10:18:00Z"
+    }
+  ]
+  

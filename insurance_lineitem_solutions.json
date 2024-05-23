@@ -1,0 +1,91 @@
+[
+    {
+      "speaker_email": "customer@example.com",
+      "response_id": "1",
+      "message": "Hello, I made a payment for my policy last week, but it's not showing up on my account. Can you help?",
+      "speaker_is_customer": true,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T16:00:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "2",
+      "message": "Sorry about that, let me help with that. Before we continue, can you confirm your full name, your date of birth, and the first line of address and postcode, please?",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T16:01:00Z"
+    },
+    {
+      "speaker_email": "customer@example.com",
+      "response_id": "3",
+      "message": "Sure, my name is Lisa Wong, born on May 15, 1987, and my address is 220 Cedar Lane, Brookside, BS5 8YT.",
+      "speaker_is_customer": true,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T16:02:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "4",
+      "message": "Thank you, Lisa.  That's all correct. Let me check your account for the payment details.",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T16:03:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "5",
+      "message": "I've located your payment, but it seems there was an issue with processing it on our end.",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T16:05:00Z"
+    },
+    {
+      "speaker_email": "customer@example.com",
+      "response_id": "6",
+      "message": "What does that mean for my policy? Is my coverage affected?",
+      "speaker_is_customer": true,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T16:06:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "7",
+      "message": "Your policy is currently active, and your coverage has not been affected. We will ensure the payment issue is noted on your account.",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T16:07:00Z"
+    },
+    {
+      "speaker_email": "customer@example.com",
+      "response_id": "8",
+      "message": "Okay, but what should I do next?",
+      "speaker_is_customer": true,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T16:08:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "9",
+      "message": "Please check your bank statements to ensure the payment was deducted. If you have any concerns, let us know.",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T16:09:00Z"
+    },
+    {
+      "speaker_email": "customer@example.com",
+      "response_id": "10",
+      "message": "Will do. Thanks for checking.",
+      "speaker_is_customer": true,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T16:10:00Z"
+    },
+    {
+      "speaker_email": "agent@SafeGuardAssurance.com",
+      "response_id": "11",
+      "message": "You're welcome, Lisa. If there's anything else I can help with, please don't hesitate to contact us.",
+      "speaker_is_customer": false,
+      "channel": "Chat",
+      "message_created_at": "2024-02-15T16:11:00Z"
+    }
+  ]
+  
