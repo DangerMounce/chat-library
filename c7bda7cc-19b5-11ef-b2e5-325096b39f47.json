@@ -1,0 +1,178 @@
+[
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "1",
+    "message": "Hello! Thank you for contacting Better Deal Insurance. My name is Chris. How can I assist you today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:10:00.120Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "2",
+    "message": "Finally, I've been waiting for ages to speak with someone. My name is John and I need help with my policy.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:11:00.121Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "3",
+    "message": "Of course, John. I'm sorry to hear about the wait. Before proceeding, can you confirm your full name for security?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:12:00.121Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "4",
+    "message": "John Richardson",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:13:00.121Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "5",
+    "message": "Thank you for completing security, John. Can you also confirm your date of birth?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:14:00.121Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "6",
+    "message": "25/09/1985",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:15:00.121Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "7",
+    "message": "Great, thank you. Just one more thing, could you please provide your first line of address and postcode?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:16:00.121Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "8",
+    "message": "12 Oak Street, AB1 23CD",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:17:00.121Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "9",
+    "message": "Thank you for confirming. How can I assist you with your policy today, John?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:18:00.121Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "10",
+    "message": "I've been trying to make a claim for weeks now, and your online system keeps crashing. It's been so frustrating!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:19:00.121Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "11",
+    "message": "I'm really sorry to hear about the difficulties you've faced, John. Let's see how we can resolve this. A possible resolution could be to assist you with the claim manually. Would you like me to guide you through the process step by step?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:20:00.121Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "12",
+    "message": "Yes, please! I just want this sorted out as soon as possible.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:21:00.121Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "13",
+    "message": "I'm glad we could help. Let's go through the details together. Firstly, could you provide me with the details of the claim?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:22:00.121Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "14",
+    "message": "My claim is for a car accident that happened on the 15th of last month. I can provide all the necessary details.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:23:00.121Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "15",
+    "message": "Thank you for sharing that information, John. Let's work on getting this resolved for you. Please allow me a moment to review the details.",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:24:00.121Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "16",
+    "message": "Take your time, but please hurry. I've wasted enough time on this already.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:25:00.121Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "17",
+    "message": "I understand your urgency, John. Thank you for your patience. I appreciate your cooperation.",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:26:00.121Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "18",
+    "message": "Thank you. It's just been a really frustrating experience overall.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:27:00.121Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "19",
+    "message": "I completely understand, John. I want to assure you that we're on the same page in working towards a resolution. I value your feedback and thank you for bringing this to our attention.",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:28:00.121Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "20",
+    "message": "I appreciate that, Chris. I just hope we can sort this out quickly.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:29:00.121Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "21",
+    "message": "We're doing our best to assist you efficiently, John. Thank you for your understanding. I'll propose a solution shortly. Please allow me a moment.",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:30:00.121Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "22",
+    "message": "Thank you, Chris. I really need this sorted out soon.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:31:00.121Z"
+  }
+]

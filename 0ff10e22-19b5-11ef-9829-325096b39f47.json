@@ -1,0 +1,170 @@
+[
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "1",
+    "message": "Hello! Thank you for contacting Better Deal Insurance. My name is Chris. How can I assist you today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:04:51.581Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "2",
+    "message": "Finally, I've been waiting forever to speak to someone. I need help with my insurance policy right now!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:05:51.581Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "3",
+    "message": "I'm really sorry to hear about the long wait. I'll do my best to assist you promptly. Before proceeding, can you confirm your full name for security purposes, please?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:06:51.581Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "4",
+    "message": "Ugh, it's Sarah Johnson.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:07:51.581Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "5",
+    "message": "Thank you for completing security, Sarah. How can I help you with your insurance policy today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:08:51.581Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "6",
+    "message": "I need to make changes to my policy right now. I don't have time to waste.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:09:51.581Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "7",
+    "message": "I understand your urgency, Sarah. To assist you better, could you please provide me with your date of birth for additional security checks?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:10:51.581Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "8",
+    "message": "Fine, it's 15/08/1990.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:11:51.581Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "9",
+    "message": "Thank you for confirming. Can you also verify your first line of address and postcode, please?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:12:51.581Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "10",
+    "message": "It's 123 Oak Street, AB1 23CD.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:13:51.581Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "11",
+    "message": "Great, thank you. To proceed, could you please confirm your email address?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:14:51.581Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "12",
+    "message": "sarah.johnson@email.com",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:15:51.581Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "13",
+    "message": "That's all correct, Sarah. Let's see how we can resolve the changes you need. One possible resolution could be to...",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:16:51.581Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "14",
+    "message": "I don't have time for all these options. Just make the changes I requested!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:17:51.581Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "15",
+    "message": "I completely understand your urgency, Sarah. Let's see if we can find a way forward that works for you. How about...",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:18:51.581Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "16",
+    "message": "Just get it done! This is so frustrating!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:19:51.581Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "17",
+    "message": "I'm really sorry for any inconvenience this has caused, Sarah. Let me try to process the changes as quickly as possible for you.",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:20:51.581Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "18",
+    "message": "Finally! That took forever. You need to work on your efficiency!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:21:51.581Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "19",
+    "message": "I apologize for the delay, Sarah. Thank you for your patience. Is there anything else I can assist you with today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:22:51.581Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "20",
+    "message": "No, that's all. Just make sure this gets sorted quickly!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:23:51.581Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "21",
+    "message": "Thank you for contacting us today, Sarah. I'm glad that I was able to help. You're welcome back anytime. Have a great day!",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:24:51.581Z"
+  }
+]

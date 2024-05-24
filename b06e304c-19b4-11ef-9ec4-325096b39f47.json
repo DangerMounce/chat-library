@@ -1,0 +1,162 @@
+[
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "1",
+    "message": "Hello! Welcome to Better Deal Insurance, my name is Chris. How can I assist you today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:02:11.501Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "2",
+    "message": "Hi Chris! I'm looking to update some information on my insurance policy, can you help me with that? I'm really happy with the service so far!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:03:11.501Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "3",
+    "message": "I'm glad to hear that you're happy with our service! Before we proceed, can you confirm your full name for security purposes?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:04:11.501Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "4",
+    "message": "Of course, my full name is Sarah Thompson.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:05:11.501Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "5",
+    "message": "Thank you for completing security, Sarah! Can you confirm your date of birth next?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:06:11.501Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "6",
+    "message": "Sure, it's the 15th of March 1990.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:07:11.501Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "7",
+    "message": "That's all correct. Could you also provide me with your first line of address and postcode?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:08:11.501Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "8",
+    "message": "It's 123 Oak Street, London, L1 2AB.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:09:11.501Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "9",
+    "message": "Great, thank you. Lastly, could you confirm your email address for me?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:10:11.501Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "10",
+    "message": "Yes, it's sarah.thompson@email.com.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:11:11.501Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "11",
+    "message": "Thank you for completing security. How can I assist you with updating your insurance policy today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:12:11.501Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "12",
+    "message": "I recently got a new car, and I need to add it to my policy. What's the process for that?",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:13:11.501Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "13",
+    "message": "I can definitely help you with that. A possible resolution could be to update your policy to include your new car. Would you like me to assist you with that?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:14:11.501Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "14",
+    "message": "Yes, please! That sounds perfect. Thank you so much for your help.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:15:11.501Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "15",
+    "message": "I'm glad we could help. Let me just take you through the steps to update your policy. First, we need to gather some details about your new car...",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:16:11.501Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "16",
+    "message": "Sounds good, I'm ready to provide all the necessary information!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:17:11.501Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "17",
+    "message": "Great! Let's start with the make and model of your new car...",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:18:11.501Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "18",
+    "message": "Thank you for your assistance. Is there anything else I can help you with today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:19:11.501Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "19",
+    "message": "No, that's all sorted. Thank you for your help, Chris!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:20:11.501Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "20",
+    "message": "You're welcome, Sarah! If you have any more questions in the future, feel free to reach out. Have a great day!",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-24T10:21:11.501Z"
+  }
+]
