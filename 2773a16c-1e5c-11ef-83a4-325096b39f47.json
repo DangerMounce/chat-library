@@ -1,0 +1,138 @@
+[
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "1",
+    "message": "Hello! Welcome to Better Deal Insurance. I'm Chris. How can I assist you today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:11:01.675Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "2",
+    "message": "Hi Chris! I'm pleased with the service so far. I need help with updating my contact details on my insurance policy.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:12:01.675Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "3",
+    "message": "That's great to hear! Before proceeding, can you confirm your full name for security purposes?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:13:01.675Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "4",
+    "message": "Of course, my full name is John Smith.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:14:01.675Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "5",
+    "message": "Thank you for completing security. Can you now confirm your date of birth?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:15:01.675Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "6",
+    "message": "My date of birth is 01/05/1980.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:16:01.675Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "7",
+    "message": "Great, thank you. Could you also provide me with your first line of address and postcode?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:17:01.675Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "8",
+    "message": "Sure, my address is 123 Green Street, London, NW1 5QP.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:18:01.675Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "9",
+    "message": "Perfect, thank you for completing security. Can you confirm your email address now?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:19:01.675Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "10",
+    "message": "My email address is john.smith@example.com.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:20:01.675Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "11",
+    "message": "That's all correct. I appreciate you verifying your details. Let's look into updating your contact details. One moment please.",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:21:01.675Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "12",
+    "message": "Thank you, Chris. I appreciate your help.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:22:01.675Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "13",
+    "message": "I've checked your policy, and to update your contact details, you may need to fill out a form online. Would you like me to guide you through that process?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:23:01.675Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "14",
+    "message": "Yes, that would be helpful. Thank you for your assistance.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:24:01.675Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "15",
+    "message": "I can certainly assist you with that. I will send you the link to the form via this chat. Please click on it and fill in the required details. Does this work for you?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:25:01.675Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "16",
+    "message": "That's all sorted. Thank you for your help, Chris. I'll fill in the form now.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:26:01.675Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "17",
+    "message": "Glad we could help. If you have any further questions or need assistance, feel free to reach out. Have a wonderful day!",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:27:01.675Z"
+  }
+]

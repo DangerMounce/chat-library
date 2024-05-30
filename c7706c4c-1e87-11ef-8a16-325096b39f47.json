@@ -1,0 +1,122 @@
+[
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "1",
+    "message": "Hello! Thank you for contacting Better Deal Insurance. My name is Chris. How can I assist you today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:23:18.588Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "2",
+    "message": "I can't believe the terrible service I've received from your company! My claim has been pending for weeks, and no one is helping me!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:24:18.588Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "3",
+    "message": "I am deeply sorry to hear about your experience. I understand how frustrating it must be. Before we proceed, can you confirm your full name for security purposes?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:25:18.588Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "4",
+    "message": "John Smith",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:26:18.588Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "5",
+    "message": "Thank you. Can you also provide me with your date of birth?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:27:18.588Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "6",
+    "message": "12/05/1980",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:28:18.588Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "7",
+    "message": "Perfect. And just to complete security, can you confirm your first line of address and postcode?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:29:18.588Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "8",
+    "message": "25 Oak Street, AB1 2CD",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:30:18.588Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "9",
+    "message": "Thank you for completing security. I appreciate your cooperation. I can see the delay in your claim is causing distress. Let's see if we can find a way forward. A possible resolution could be escalating your claim for urgent review. How does this sound to you?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:31:18.588Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "10",
+    "message": "It's about time you took some action! That sounds like the least you can do. Please go ahead and do that.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:32:18.588Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "11",
+    "message": "Absolutely, I'll escalate your claim for urgent review. I'm glad we could help with this. Your claim will be prioritized, and we'll keep you updated on the progress. Does this work for you?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:33:18.588Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "12",
+    "message": "I guess that would be fine. But it should have been done ages ago. I'm still not happy with the service.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:34:18.588Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "13",
+    "message": "I completely understand your frustrations, and I apologize for any inconvenience caused. We truly value your feedback and will work on improving our services. Thank you for bringing this to our attention. Is there anything else you would like to address today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:35:18.588Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "14",
+    "message": "No, that will be all. I just hope this time things will move faster. Thank you for your help.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:36:18.588Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "15",
+    "message": "You are welcome. If you need any further assistance in the future, please don't hesitate to reach out. Have a great day!",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:37:18.588Z"
+  }
+]

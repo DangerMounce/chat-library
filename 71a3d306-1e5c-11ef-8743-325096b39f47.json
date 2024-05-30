@@ -1,0 +1,106 @@
+[
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "1",
+    "message": "Hello! Welcome to Better Deal Insurance. My name is Chris. How can I assist you today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:13:06.149Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "2",
+    "message": "Hi Chris! I'm pleased with the customer service I've received so far.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:14:06.149Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "3",
+    "message": "That's great to hear! Before we proceed, can you confirm your full name for security purposes, please?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:15:06.149Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "4",
+    "message": "Sure, my name is Emily Johnson.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:16:06.149Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "5",
+    "message": "Thank you for completing security, Emily. How can I further assist you today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:17:06.149Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "6",
+    "message": "I have a question about my current policy and some recent changes. Can you help with that?",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:18:06.149Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "7",
+    "message": "Of course, I'd be happy to assist. What specific changes are you inquiring about?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:19:06.149Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "8",
+    "message": "I recently moved to a new address, and I need to update my policy details accordingly.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:20:06.149Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "9",
+    "message": "I can assist you with updating your policy address. Can you confirm the first line of your new address and the postcode, please?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:21:06.149Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "10",
+    "message": "My new address is 123 Sunny Lane, AB1 2CD.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:22:06.149Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "11",
+    "message": "Great, thank you for providing that information. Let me update your policy details. All sorted! Does this work for you, Emily?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:23:06.149Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "12",
+    "message": "Yes, that's perfect. Thank you for your help, Chris!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:24:06.149Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "13",
+    "message": "You're welcome, Emily! If you need any further assistance, please don't hesitate to reach out. Have a wonderful day!",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:25:06.149Z"
+  }
+]

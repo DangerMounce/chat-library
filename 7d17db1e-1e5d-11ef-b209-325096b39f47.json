@@ -1,0 +1,138 @@
+[
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "1",
+    "message": "Hello! Thank you for contacting Better Deal Insurance. My name is Chris. How can I assist you today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:20:34.889Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "2",
+    "message": "Hi Chris, I'm pleased with the service I've received so far.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:21:34.889Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "3",
+    "message": "That's wonderful to hear! Before proceeding, can you confirm your full name for security?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:22:34.889Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "4",
+    "message": "Of course, my full name is John Smith.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:23:34.889Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "5",
+    "message": "Thank you for completing security. Can you now confirm your date of birth?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:24:34.889Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "6",
+    "message": "My date of birth is 10/05/1982.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:25:34.889Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "7",
+    "message": "Great, thank you. To proceed further, can you confirm the first line of your address and postcode?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:26:34.889Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "8",
+    "message": "Sure, my address is 123 Green Street, LE3 9XY.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:27:34.889Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "9",
+    "message": "Perfect, thank you. Finally, can you confirm your email address?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:28:34.889Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "10",
+    "message": "My email address is john.smith@example.com.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:29:34.889Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "11",
+    "message": "Thank you for completing security. I'm glad that I was able to help. How can I assist you further today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:30:34.889Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "12",
+    "message": "I'm actually facing an issue with my current policy renewal. The premium has increased significantly, and I'm not happy about it.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:31:34.889Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "13",
+    "message": "I understand how frustrating that can be. Let's see what we can do to find a resolution. A possible solution could be to review your policy and see if there are any adjustments that can be made to lower the premium. Does this work for you?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:32:34.889Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "14",
+    "message": "That sounds like a good idea. I would appreciate it if we could explore some options to reduce the premium.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:33:34.889Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "15",
+    "message": "Great! Let me take a look at your policy and present some options for you. Please allow me a few moments to review it.",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:34:34.889Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "16",
+    "message": "Thank you, Chris. I really appreciate your help.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:35:34.889Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "17",
+    "message": "You are welcome! I'm here to help. I'll get back to you shortly with some proposed solutions.",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T08:36:34.889Z"
+  }
+]

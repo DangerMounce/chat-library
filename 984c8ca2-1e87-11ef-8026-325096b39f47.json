@@ -1,0 +1,146 @@
+[
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "1",
+    "message": "Hello! Thank you for contacting Better Deal Insurance. My name is Chris. How can I assist you today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:21:59.495Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "2",
+    "message": "I am extremely unhappy with the service I have received from your company!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:22:59.495Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "3",
+    "message": "I am deeply sorry to hear that you are dissatisfied. To assist you better, could you please confirm your full name for security purposes?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:23:59.495Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "4",
+    "message": "John Smith",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:24:59.495Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "5",
+    "message": "Thank you. Could you also provide your date of birth, please?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:25:59.495Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "6",
+    "message": "01/01/1980",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:26:59.495Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "7",
+    "message": "Perfect. Lastly, could you confirm your first line of address and postcode?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:27:59.495Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "8",
+    "message": "123 Main Street, AB1 2CD",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:28:59.495Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "9",
+    "message": "Thank you for completing security. I appreciate your cooperation. How can I help you with your concerns today?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:29:59.495Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "10",
+    "message": "I recently filed a claim, and it was mishandled by your team. I am very unhappy with the outcome.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:30:59.495Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "11",
+    "message": "I apologize for any inconvenience caused. Let's see how we can make this right. A possible resolution could be reevaluating the claim with a senior claims handler. Would this work for you?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:31:59.495Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "12",
+    "message": "That's not satisfactory! I want a full refund and compensation for the trouble I have faced.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:32:59.495Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "13",
+    "message": "I understand your frustration. I truly value your feedback regarding this matter. Let me check if a refund and compensation can be arranged for you. Please allow me a moment to look into this further.",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:33:59.495Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "14",
+    "message": "I've reviewed your account, and I'm afraid we cannot provide a full refund as per our policy. However, we can offer you a partial refund as a gesture of goodwill. How does that sound to you?",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:34:59.495Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "15",
+    "message": "That's unacceptable! I demand a full refund and proper compensation. This is outrageous!",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:35:59.495Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "16",
+    "message": "I apologize for any disappointment this may cause you. I can see this is a difficult time for you. I will escalate this issue to a manager who will review your case further. Thank you for your patience.",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:36:59.495Z"
+  },
+  {
+    "speaker_email": "customer@example.com",
+    "response_id": "17",
+    "message": "This is not the outcome I expected. Your company has really let me down. I will be sharing my experience with others.",
+    "speaker_is_customer": true,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:37:59.495Z"
+  },
+  {
+    "speaker_email": "agent@example.com",
+    "response_id": "18",
+    "message": "I completely understand your frustration, and I am sorry you feel this way. Your feedback is incredibly important to us, and we take it very seriously. I'm glad that I was able to assist you today. Should you need any further support or have any other concerns in the future, please do not hesitate to reach out to us. Thank you for contacting Better Deal Insurance. You are welcome.",
+    "speaker_is_customer": false,
+    "channel": "Chat",
+    "message_created_at": "2024-05-30T13:38:59.495Z"
+  }
+]
